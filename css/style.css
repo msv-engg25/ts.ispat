@@ -347,6 +347,7 @@ img {
   animation-fill-mode: backwards;
 }
 
+
 @media (max-width: 768px) {
   #hero h1 {
     font-size: 2.5rem;
